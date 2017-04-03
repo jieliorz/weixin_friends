@@ -17,7 +17,7 @@ python weixin_analysisData.py
 **结果样例：**
 我们把程序结果做成简单的图标，大致是这样的。
 好友头像：
-![头像](https://github.com/zhiyinyouzhao/weixin_friends/raw/master/result_images/朋友圈.jpg)
+![头像](https://github.com/zhiyinyouzhao/weixin_friends/raw/master/result_images/friends_circle.jpg)
 好友性别分析：
 ![性别分析](https://github.com/zhiyinyouzhao/weixin_friends/raw/master/result_images/friends.jpg)
 好友全国分布：

@@ -1,5 +1,7 @@
 ---
-title:weixin_friends
+title:weixin_friends  
+tags:微信,好友,分布  
+---
 **关于我：**
 Life is short,I use Python!  
 Author：zhiyinyouzhao  

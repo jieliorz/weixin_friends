@@ -1,4 +1,4 @@
-title: weixin_friends  
+weixin_friends  
 ===
 **关于我：**
 Life is short,I use Python!  

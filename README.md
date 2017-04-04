@@ -1,4 +1,5 @@
-#title: weixin_friends  
+title: weixin_friends  
+===
 **关于我：**
 Life is short,I use Python!  
 Author：zhiyinyouzhao  

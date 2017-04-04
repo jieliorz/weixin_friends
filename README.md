@@ -1,7 +1,8 @@
 ---
 title:WeiXin_friends
 tags: 微信,好友,,性别分布,省市分布
-
+grammar_cjkRuby: true
+---
 **关于我：**
 Life is short,I use Python!
 Author：zhiyinyouzhao

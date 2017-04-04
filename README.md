@@ -5,13 +5,9 @@ grammar_cjkRuby: true
 ---
 **关于我：**
 Life is short,I use Python!  
-
 Author：zhiyinyouzhao  
-
 Email：5251870@qq.com  
-
 Date：April 3,2017  
-
 **项目说明：**
 该项目主要分析了微信通讯录好友的数据情况。
 安装说明：

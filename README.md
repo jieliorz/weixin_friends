@@ -1,6 +1,7 @@
 ---
-title:weixin_friends  
-tags:微信,好友,分布  
+title: 2017-4-4未命名文件  
+tags: 新建,模板,小书匠  
+grammar_cjkRuby: true  
 ---
 **关于我：**
 Life is short,I use Python!  

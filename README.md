@@ -1,8 +1,5 @@
 ---
-title: 2017-4-4未命名文件 
-tags: 新建,模板,小书匠
-grammar_cjkRuby: true
----
+title:weixin_friends
 **关于我：**
 Life is short,I use Python!  
 Author：zhiyinyouzhao  
